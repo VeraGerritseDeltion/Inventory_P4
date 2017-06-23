@@ -1,0 +1,3 @@
+de input voor de scene is:
+e:interact
+b:toggle bag
